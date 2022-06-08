@@ -9,7 +9,7 @@ app.use(cors());
 app.use(express.json());
 
 mongoose.connect(
-  'mongodb+srv://admin:admin@cluster0.e3qqz.mongodb.net/?retryWrites=true&w=majority',
+  'linkdeconexionamongo',
 );
 
 app.post('/api/register', async (req, res) => {
