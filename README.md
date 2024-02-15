@@ -1,8 +1,6 @@
 # ¡Bienvenido!
 En esta rama esta todo lo que he desarrollado para la práctica final de programación web.
 
-Dentro del archivo Práctica Final - Paula de Costa Pereira.pdf está toda la explicación de porque he escogido trabajar con ese framework, la estructura de la aplicación y el esquema tecnológico.
-
 ## Cómo ejecutar el programa
 El programa cuenta con dos partes, por un lado el servidor hecho en Node.js con Express, y por otro el cliente hecho en React.js
 
